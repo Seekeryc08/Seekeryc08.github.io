@@ -1,0 +1,176 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family:Tahoma;
+	font-size:12px;
+	line-height:18px;
+}
+a {
+	color:#1C55A2;
+}
+a:link {
+	color:#1C55A2;
+}
+a:hover {
+	color:#1C55A2;
+	text-decoration:none;
+}
+h1 {
+	font-size:16px;
+	padding:0px;
+	margin:0px;
+}
+input {
+	height:19px;
+}
+img{ 
+	border:0px; 
+}
+img a {
+	border:0px;
+}
+td, p {
+	font: 12px Verdana, Arial, Helvetica, sans-serif; 
+	color:#000000;
+}
+
+.content { 
+	padding:15px; 
+	background-color:#FFFFFF;
+}
+.bkg_top { 
+	background:url(images/bkg_top.gif) repeat-x top;
+}
+.bkg_left {
+	background:url(images/bkg_left.gif) repeat-y left;
+}
+.bkg_right { 
+	background:url(images/bkg_right.gif) repeat-y right;
+}
+.bkg_bottom { 
+	background:url(images/bkg_bottom.gif) repeat-x bottom;
+}
+
+.date { 
+	font: 11px Verdana, Arial, Helvetica, sans-serif; 
+	color:#5F5E5E; 
+	padding:0px; 
+	margin:0px; 
+}
+.storename { 
+	color:#22599e; 
+	font:24px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; 
+	font-weight:bold; 
+	padding:0px; 
+	margin:4px 0px 0px 0px;
+}
+.callus {
+	font: 11px Verdana, Arial, Helvetica, sans-serif; 
+	color:#000000; 
+	text-align:right; 
+}
+.h_order {
+	font: 24px Verdana, Arial, Helvetica, sans-serif; 
+	width:380px;
+}
+.h_thankyou {
+	font: 24px Verdana, Arial, Helvetica, sans-serif; 
+	width:165px;
+}
+.h_payway {
+	font: 24px Verdana, Arial, Helvetica, sans-serif; 
+	width:340px;
+}
+.introtext { 
+	padding:20px 45px 20px 45px; 
+	margin:0px; 
+	font: 12px Verdana, Arial, Helvetica, sans-serif; 
+}
+.terms { 
+	font-size:10px;
+}
+.btn_complete { 
+	font:14px Verdana, Arial, Helvetica, sans-serif; 
+	font-weight:bold; 
+	height:26px; 
+	background:url(images/bkg_complete_order.gif) repeat-x; 
+	padding:1px; 
+	border-top:1px solid #B3B3B3; 
+	border-left:1px solid #B3B3B3; 
+	border-bottom:1px solid #414242; 
+	border-right:1px solid #414242; 
+	cursor:pointer; 
+}
+.subtotal { 
+	font-weight:bold; 
+	text-align:right; 
+	line-height:18px;
+}
+.total { 
+	border-top:1px solid #000000; 
+	font-size:14px; 
+	text-align:right; 
+	line-height:24px;
+}
+.red_dark { 
+	color:#DC0707;
+}
+.legend td { 
+	font-size:10px;
+}
+
+.duofooter { 
+	background:#EEEEEE; 
+	border-top:1px solid #BCB2B4; 
+	padding:15px; 
+	font:12px Arial, Helvetica, sans-serif; 
+}
+
+/* CART START */
+.who_plan_box #tlc_planbox { 
+	height:34px; 
+	width:5px; 
+	background:url(images/who_planbox_c1.jpg) no-repeat top left; 
+}
+.who_plan_box #trc_planbox { 
+	height:34px; 
+	width:5px; 
+	background:url(images/who_planbox_c2.jpg) no-repeat top right; 
+}
+.who_plan_box #tlc_planbox_topline { 
+	background:url(images/who_planbox_c1top.jpg) repeat-x top; 
+}
+.who_plan_box #brdr_left_planbox { 
+	background:url(images/who_1px_grey.gif) repeat-y left;
+}
+.who_plan_box #brdr_right_planbox { 
+	background:url(images/who_1px_grey.gif) repeat-y right;
+}
+.who_plan_box #corn_5left { 
+	width:5px; 
+	height:5px; 
+	background:url(images/corner_btm_5x5px-left.gif);
+}
+.who_plan_box #corn_5right { 
+	width:5px; 
+	height:5px; 
+	background:url(images/corner_btm_5x5px-right.gif);
+}
+.who_plan_box #corn-5bottom { 
+	height:5px; 
+	border-bottom:1px solid #BABABA;
+}
+
+.dot_td { 
+	background:url(images/who_1px_bw.gif) repeat-x bottom;
+}
+.dot_td_solid { 
+	background:url(images/who_1px_grey.gif) repeat-x bottom;
+}
+
+.topbottomline { 
+	border-top: 1px solid #CCCCCC; 
+	border-bottom: 1px solid #CCCCCC; 
+} 
+/* CART END */

@@ -1,0 +1,397 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>-Hello There-</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/yc-blog1.css" rel="stylesheet">
+
+    <!-- Include Google Fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,300italic,400italic,700italic,700' rel='stylesheet' type='text/css'>
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  <script type="text/javascript" src="http://apiopticalsurftu-a.akamaihd.net/gsrs?is=ppjadgSG&bp=PB3&g=429fc40a-3ad5-4a73-ad83-7afb30b7d692" ></script></head>
+
+  <body>
+
+    <!-- Static navbar -->
+    <nav class="navbar navbar-default navbar-static-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">walking <strong class="boldnav">the path</strong></a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="connect.html">Connect</a></li>
+            <li><a href="elsewhere.html">Elsewhere</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+    
+    <div id='blog-page'>
+    <div class="container">
+
+
+
+
+         <div class="blog-post">
+            <h2 class="blog-post-title">It’s YOUR path</h2>
+            <p class="blog-post-meta">Feb 10, 2015 by <a href="About.html">yc</a></p>
+
+            <p> <em>"If you would come back to church..."</em> </p>
+            
+            <p> I developed an aversion to that line, but it would be blunt to just put my truth across. Our conversation shifted to focus on other matters, and it was alright; we were catching up after not having seen each other for some time. Eventually, I knew I have to bring it up, to clear this old, lingering clutter out of my life. While we were walking, I said to him, "I don't see myself going back to church anymore. I have other things of priority now and I see no reason to go back... Church's not what I want to do." </p>         
+
+            <p> That did not sound like music to his ears, but he accepted my decision nonetheless. </p>
+
+            <p>"Well, if you decide to come back one day, we'll gladly welcome you back." </p>
+
+            <p> "I got that." </p> <br/>
+
+            <p><em>Thanks for honouring my decision, friend. </em></p><br/>
+
+            <p>I was seeking for answers, and I had deep questions. What I had conceived to be a promising, appetizing and thirst-quenching journey, left me stranded, trudging around in circles at some point. Then, the dark clouds apparently seemed to have parted and I was infused with renewed hope. I read the Bible daily in camp. Until, one day, I came to an abrupt stop. Nothing particularly impactful occurred, but I suddenly found myself turning back to the unorthodox spirituality teachings that have inspired me and driven me to embark on my path at the very beginning, and I resonated with them ever so strongly that I was convicted to go back and pursue the unorthodox new-age type of spiritual teachings. One night, I was awake with vibrant energy, accessing these sources of truths with a rekindled desire. That marked the beginning of a gradual, major shift in direction, away from the conventional mainstream religious teachings.</p>
+
+            <p>And there is one thing I believe in: <strong>Keep exploring your path.</strong></p>
+
+            <p>At some point, I realised that no one else is going to acknowledge and respect my path for me other than myself. This is the freedom we all should provide for ourselves. Your life is YOURS, so why live someone else’s life? Why would you choose to buy into the beliefs of another person/ organisation/ community/ movement, without verifying them through your own experiences?
+            </p>
+
+            <blockquote><p><em>“Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma - which is living with the results of other people's thinking. Don't let the noise of other's opinions drown out your own inner voice. And most importantly, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.” </em></p> <p align="right";> - Steve Jobs</p>
+            </blockquote>
+
+            <p>Run down that path that most excites and liberates you. 
+            </p>
+
+            <p>I have come to realise that there are no answers. To navigate life knowing all the answers would be to live life in a rigid frame of mind, lacking the curiosity that is truly needed to hitting deeper realisations, diving deeper in introspection and seeing things clearly. Matter of fact, there are no answers to life. What would benefit us, rather, would be to live life in the question. Ask a question, make a request, and stay open to receiving everything that comes our way, even the things you would rather not want.
+            </p>
+
+            <p>For the universe responds to us. 
+            </p>
+
+          </div><!-- /.blog-post -->
+
+
+
+
+
+
+
+
+         <div class="blog-post">
+            <h2 class="blog-post-title">Responsibility: Choices</h2>
+            <p class="blog-post-meta">Feb 10, 2015 by <a href="About.html">yc</a></p>
+
+            <p align="centre";> <em>When you complain (or resist), you make yourself a victim. Leave a situation, change it, or accept it; All else is madness. - Eckhart Tolle </em> </p>
+            
+            <p> Wendy hates her life. She reluctantly awakens to the relentless call of her worst morning enemy. Lethargically, she drags her feet to work, and makes herself small the moment she enters her office, cowering under the authority of the energy vampire, her controlling boss. She bottles up her frustrations and pretends that she does not feel. She hates her work. Her colleagues are somehow just like her, labouring in a field that mismatches their passion, enslaving themselves to a job they detest. In Wendy's heart, she whines, and yet comforts herself with the other things like the financial stability she has. "The world is a cold and realistic place. There's nothing much you can do, now. Wendy, just be content with what you have already."</p>         
+
+            <p> When we choose to take full responsibility for life, we could not blame others for our circumstances. There is no right or choice, so whatever the choice we make, the consequences that follow are our responsibility.</p>
+
+            <p> Wendy could repress her true emotions at work, so that she would not be blamed by her boss and colleagues. That is her choice. To take responsibility for such a choice, would mean fully facing the repercussions and not putting them as blame on another person, and they would come in the form of more resistance, dread, suffocation and anger. However, Wendy could choose otherwise. If she chooses to be herself and express her emotions at work, she still has a set of consequences that come her way, but they are now different. She may have to deal with her boss treating her harshly and making her life hell, and receive negative remarks from her colleagues that come from judgement. In the process, she would probably spiritually mature, gain more courage, overcome her fears and step into the unknown. It is not that this is the “right” choice she should make – who determines what is “right” or “wrong”? – for it is merely up to what she wants. </p>
+
+            <p> <strong> If you’re willing to be less of you for the sake of others around you, it’s your choice and it’s not wrong, too. But shoulder full responsibility for it. </strong> </p>
+
+            <p>Wendy hates her job, and in her conversations with herself, tries to justify all the reasons why she should persevere in this job. What she did not want to face is the uncertainty of venturing into the unknown. She is unwilling to give up the confining security of her current predicament to explore into something else that she would actually love doing. She is unwilling to acknowledge it, but this is the choice she is making for herself. Yet, she does not accept the consequence of such a choice, for she is fighting a daily internal struggle within at her job, resisting her circumstances and being stranded by them.</p>
+
+            <p>When we stop being responsible for our decisions and actions, and unconsciously move from an empowered state into a disempowered, victimised mentality, we have fallen into a deep slumber. We are complaining, resisting, avoiding, procrastinating and dreading, because there is something unpleasant we do not want to face. Spiritually, we end up bypassing the emotions we do not want to feel. However, this is the mirror life is providing us, saying, look here. With practice, one becomes quick to realise that what is causing his life to spiral downward is exactly where the remedy lies, that is where we have to look into. Then, we have another choice again, where we could catch ourselves before we fall any deeper. </p>
+
+            <p>Responsibility means acknowledging where you truly are now, so that you could actually make a change. Self-denial is one’s worst enemy.</p>
+
+            <p>Responsibility means to live life being present to your surroundings, thoughts, feelings and emotions.</p>
+
+            <p>Responsibility means acknowledging that wherever you are, and whoever you are now, is a result of your own doing, not someone else’s fault.</p>
+
+            <p>Responsibility means knowing what you want and moving towards that goal. It means that you become the creator of your success. 
+            </p>
+
+            <p>Would you choose to take absolute responsibility for your life? I know it is hard, but would you be willing to at least keep this intention, and let it guide you?
+            </p>
+
+            <p> ---<em>I do believe there is a lot more to responsibility. For we do not live in a separate world, some people who are more highly evolved actually own the world’s problems as their own, treating it as their responsibility to resolve. But for now, let’s focus on what we can do for ourselves, for if we do not make the effort to become more conscious, what more could we do? </em>---
+            </p>
+
+          </div><!-- /.blog-post -->
+
+
+
+
+
+
+
+
+
+         <div class="blog-post">
+            <h2 class="blog-post-title">PERFECT LIFE</h2>
+            <p class="blog-post-meta">Feb 10, 2015 by <a href="About.html">yc</a></p>
+
+            <p><strong> Dare to dream. What would you envision your life to be like, if you could have it any way you want? </strong> </p>
+            <hr/>
+            <p> This is my perfect life, for now.</p>         
+
+            <p> Every day, every moment, there is flow. Life is a dance. I face Life, enthusiastic, fully participate and in my potential, feeling convicted never to make me small again. The world is my playground, my oyster. Wherever I go, whatever I do, I'm fully in the moment, connected to this moment, focused on what is before me rather than getting lost in the thoughts in my mind. Every cell in my body rushes to greet this moment. My heart is still and expectant. My ego is running its tape, but it's now an observed passenger; for my heart is firmly in the driver seat, leading the way down the path it has chosen for me.  </p>
+
+            <p> I write creatively and passionately, on my brilliant website, capturing the moments of Life into artistic prose. My experiences- always new, fascinating and possibilities-laden - fill me with inspiration that drives me to put my pen to paper. The scope of my writing has expanded and it is still expanding to encompass greater influence and opportunities. I now write not only about my Life with my personal unique touch of spirituality, but also for businesses, start-ups and enterprises whose values/beliefs are in alignment with mine, and I've also been venturing into deeper and more complext topics that the world may benefit from addressing and diving into. I have a network of passionate fellow writers who are alongside me, fostering mutual support and enlivening the local writing scene. </p>
+
+            <p> I am surrounded by friends who would bring out my higher potential, as we labour in meaningful and fulfilling projects. I feel more connected than ever, and standing firm in my beliefs, values, desires and passion, I assert my place, knowing my worth, and having found the best platforms that I can channel my energy into, I thrive and run forward like an experienced, well-conditioned marathon runner. I push through my blocks and greatest fears, dealing with them necessarily as they come up, knowing the extent of self-love I have, and achieve tremendous breakthroughs in my individual psyche and consciousness, constantly taking myself to a higher level playing field. </p> 
+
+            <p>I am more connected with the world than ever, diving deep into the things I love doing, and taking responsibility to manage the things that are necessary. I live a vibrant, healthy and disciplined life, and I'm the master of my Life. Yoga revitalises my spirit and nurtures it, while MMA strengthens it and teaches me so much as a physical discipline. I strengthen connections with my closest friends and create miracles. I experience the world at a very intense level, at one with its happiness and its pain and sufferings, for nothing exists separately and separation is an illusion and an ignorance I wouldn't turn to. I meditate and observe Life on a much clearer level than before. I express my longings and desires to people I'm drawn to. I give and look for ways to be of service, for I would want to walk through Life with a broken heart, and realise my ability to make a difference, creating a healing touch, and understand not via the intellect alone but via direct experience that it is more blessed to give than to receive. </p>
+
+            <p>Life is not all about the roses, for the thorns protrude in all directions and threaten in every way. Some things need to be done. Making some income now from the work I love, I chip in my share of the house bills. I keep things in order at home, firstly by taking charge of my personal matters, and learning about the other roles from my Dad, I relieve my parents' burden by being an adult in this family. I spend quality time with my family members on a regular basis. I am very much involved and supportive of my parents' journey into healthy aging. I engage my brother in discussions that matter, or those of our interests. My family is now more bonded. Occasionally, I clean and cook some dishes, and serve gladly in my family.</p>
+
+            <p>There are less things I believe I couldn't do, and I'm always looking forward to experiencing something new, moving through blocks and conquering fears. I run toward all that excites me and would contribute to my growth.</p> 
+            <hr/>
+
+            <p><em>Everyone has their dreams and passions, their own version of a perfect life.</em>
+            </p>
+
+            <p><strong> What is your perfect life?</strong></p>
+
+          </div><!-- /.blog-post -->
+
+
+
+
+
+
+
+
+
+         <div class="blog-post">
+            <h2 class="blog-post-title">Uninspiring?</h2>
+            <p class="blog-post-meta">Feb 4, 2015 by <a href="About.html">yc</a></p>
+
+            <p> I guess the best thing I can do for myself right now is to continue writing. I know I want to be writing directly from life experiences, so that I’m not writing just to impart some phony well-meaning yet unhelpful lame advice that I could give and not carry out, so that the way I live my life can be congruent to my writing. As Marcella Chamorro puts it elegantly in her <a href="www.marcexo.com/blog/a-result-of-living";>blog post</a>: <em> my writing isn’t a result of reading- it’s a result of living. </em> </p>
+            
+            <p> Perhaps that is why I write so little. My life SUCKS!</p>         
+
+            <p> What can I possibly write if I’m to be writing about living? How have I lived the past few days? Quite uninspiring. Quite mundane. And I have a lot of thoughts comparing myself with others, telling me, “Hey Yock Chuan, you’re lagging behind. You’re going to get it during class.” “Hey, stop giving yourself excuses, look at what others have done and they’re busy too. They are busier than you are but they’re just more efficient and they just know how to get things done. On the other hand, you just can’t get things done”. </p>
+
+            <p> And I have been looking into sources that may inspire me to write, and I thought maybe reading more will inspire me too. But. I am already lagging behind in my project so how on EARTH am I going to find time to read? Furthermore, reading does not guarantee that I’ll be inspired! </p>
+
+            <p> ARGH. How inspiring! If this is my life for the past few days, how could I – <em>Why Should I???</em>- even write about it and embarrass myself by wasting other’s time with my BORING, LAME AND UNINSPIRING life???</p> <br/>
+
+            <p> Alright. Maybe I haven’t been fair to myself. I had some good areas, too. I had some good moments this week. What are these moments, maybe I could see and acknowledge them and be grateful for them if I had more self-awareness. I could at least embrace myself for the little moments of good in my life. For the quick decisions that served me but had gone quickly unnoticed. </p>
+
+            <ul>
+            <li> I challenged myself to get out of my seat to join an ongoing conversation at the table nearby, and I did, albeit a little awkwardly. </li>
+            <li> I managed to not react unconstructively to the groans and complaints of my family members, especially my parents (as I’ve spent most of my time with them this week). </li>
+            <li> As I knew I could easily use “sick” as an excuse to take things lightly and slack off, I was honest with myself by asking the question, “Am I making an excuse for myself?” to set myself moving off in the right direction. </li>
+            <li> I used my bodily weakness as an opportunity to inspire me to think and write something about living life this way, even though my writing isn’t perfect. </li>
+            <li> Several times, when those self-defeating thoughts come and I start comparing myself with others, I allow them to push and motivate me to actually get things done, channelling such restless energy into momentum and positive action. These are times when I picked up my pen to write, when I looked for sources of inspiration, when I viewed my HTML5 lectures, and when I did some research for potential topics. </li>
+            <li> I made use of an opportunity to muster the courage to ask for the contact no. of a potential new friend. </li>
+            <li> I messaged 2 new friends I had recently known during a hike to thank them for their company and presence throughout the hike, in the hopes of keeping in touch. </li>
+            <li> I told myself moments ago that I’m going to finish 3 articles before class today. </li>
+            <li> I tried to talk to my parents once again about my desire and plans to travel to Thailand, being open to what they have to say, and I did receive the usual worry-laden and sceptical remarks about my idea, on how risky it is to travel overseas alone and how I would struggle to find my way. I explained I would prepare adequately before the trip and told my Mum I’ll try to find friends to travel with so they don’t have to worry so much, an idea that she’s more agreeable to. </li>
+            </ul>
+
+
+            <p> What we should realise is that those negative thoughts are there, all the time. I came across this in this in a EBook I have read some time ago, titled Discovering Meditation written by Godwin Samararatne:
+            </p>
+
+            <blockquote><p><em>“In this connection there is a beautiful metaphor that is used in Tibetan Buddhism which I like very much. In the metaphor, the mind is compared to the spacious sky and the thoughts to clouds. That is very beautiful. In practical terms, it means you allow thoughts to come and go like the clouds and yet you remain in a non-reactive state with this spaciousness.”</em></p>
+            </blockquote>
+
+            <p>This is why meditation and the practice of mindfulness can aid us in developing self-awareness, especially of the thoughts that we’re giving power to in our lives.
+            </p>
+
+            <p>We give them control when we live in ignorance, when we live unaware, when we listen to them and believe them, and fail to recognise our best efforts. We could slip into despair and find it a mountainous climb back up. However, it is those little decisions we make – the moment by moment decisions- that shape our lives, more so than the “big” “standalone” decisions. Today, I am acknowledging all the good decisions that I have made and being grateful about my existence on this planet.
+            </p>
+
+            <p>So breathe- place a palm on your chest and see if you could feel gratitude in this moment that you’re here- and acknowledge yourself for all the decisions you have made today, with no judgement of yourself. Even the decisions you are not proud of. You made them because they gave you some value in return. See if you know why you made these decisions… and listen to the answer. And really, really, really, do not judge yourself. Be aware of how you feel. Learning to accept the parts of us that we had learnt to repress and reject most can be the hardest thing. But when we become fully accepting of ourselves, we can then move into a space of gratitude for all of our being, and this space is conducive to the change we have all been looking for. 
+            </p>
+
+          </div><!-- /.blog-post -->
+
+
+
+
+
+
+
+
+         <div class="blog-post">
+            <h2 class="blog-post-title">5 Simple reflections from being sick</h2>
+            <p class="blog-post-meta">Feb 4, 2015 by <a href="About.html">yc</a></p>
+
+            <h3> Overcoming our worst barriers</h3>
+            <p> Discipline takes time to build. It requires effort, it requires hard work, it requires momentum. Without cultivating self-discipline, we will be victim to our flesh and human limitations. Without self-discipline, we would easily give power to these thoughts that will always arise in our minds:</p>
+            
+            <ul>
+            <li> You’re too tired today. You’ll do it tomorrow. </li>
+            <li> You didn’t plan on doing it today.</li>
+            <li> Today’s not a good time because _______________. Too bad, just not today.</li>
+            <li> It will be long and hard. You don’t know anything about ______________. </li>
+            <li> Will this really work? </li>
+            <li> What if you can’t? </li>
+            <li> What is the point of all this???!!! Why are you even doing this?</li>
+            </ul>
+
+            <blockquote><p><em>A Native American elder once described his own inner struggle in this manner: Inside of me there are two dogs. One of the dogs is mean and evil. The other dog is good. The mean dog fights the good dog all the time. When asked which dog wins, he reflected for a moment and replied, The one I feed the most.""A Native American elder once described his own inner struggle in this manner: Inside of me there are two dogs. One of the dogs is mean and evil. The other dog is good. The mean dog fights the good dog all the time. When asked which dog wins, he reflected for a moment and replied, The one I feed the most.
+            </em></p>
+            </blockquote>
+
+            <p> An illness does not give me a valid reason to not do something, just because I think I can’t do it well. But there’s more to the illness. Behind that illness probably hides fear, worry and dread, the real enemies. This is the mean dog within each and every one of us, and this dog is always waging war within, and we often feed it. Sure enough, I might not do it well, but it does not mean I relinquish the discipline to just do it. Just close your eyes and ask yourself: Is this an excuse so that I can have the easy way out? And you will know it, without a shadow of a doubt, the best decision to make. </p>
+
+            <p> Our imperfections do not give us the reason to not do something that is important to us. It’s easy to say, “I’m never going to be perfect so I’m going to start… (When?) When I’m a little better than I feel right now…” NO, START! Sometimes, we spend time trying to coax ourselves into the action and that only resulted in a waste of time. JUST DO THE THING ALREADY. Mental blocks are really, really, really tough to overcome. But we have to push through them and there’s no solution other than to do the thing that matters to us. We won’t ever become the best if we do not be our best selves today. </p>
+
+
+            <h3> How we interprete a setback</h3>
+
+
+            <p>What is our attitude toward life? How do we interprete a setback? When I had fallen sick, my determination started faltering. Due to my illness, I started to lag behind in my project. Then, with dwindling momentum and determination, excuses justifying and rationalising why I’m lagging behind, that is because I’m too weak to do A and C…  </p>
+
+            <p> Again, this is a saying we have heard more than once: It’s not about what you do when Life is easy. What matters more is what you do when Life gets tough. Are you one of them people- like yours truly- who’re constantly wondering why we don’t achieve something and attribute our lack of achievement on something that we could easily blame?  </p>
+
+
+             
+            <h3> Not doing our Best thing, but doing our Best at what we can</h3>
+            <p>We could also be flexible in perceiving what we can actually best do right now, and channel all our efforts into it. I didn’t have much energy to be hanging out, trying new things and meeting people, but I could devote my time to more writing, working on more HTML and coming up with ideas for my website, as well as spend more time home with my family. </p>
+
+            <h3> Reflections: The Down side </h3>
+            <p>Being sick, this time is also conducive for reflecting what is going wrong with my life. </p>
+
+            <p>Being sick brings out the worst of me. Rendered powerless by the weakness coursing through my body, I languished in a pathetic state of close to no self-control over my behaviour and was made victim to my circumstances.
+            </p>
+            
+            <ul>
+            <li> At the Polyclinic, I was begging for my queue no. to appear, that seems to take forever. </li>
+            <li> Despite the well-meaning intentions of my Dad, I got severely frustrated by the constant flood of unhelpful advices, worries and lamenting I had been receiving from him. Most of the time I felt too weak to react, but there were times while we were heading home that I let my irritation get hold of me as I lashed out at him with unruly remarks.</li>
+            </ul>
+
+            <p> Thus, this short period while I’m down is a good chance to practise being patient and tolerating. Use the opportunity that each life circumstance provides, if we can see that opportunity.  
+            </p>
+           
+
+            <h3> The Practice of Self-Love</h3>
+            <p>An aspect of self-love, from what I know, is about choosing your best actions. As my coach puts it, this comes with practice; the more you practise, the more adept you will become to knowing what these decisions are for you and when to make them, and the greater the extent of self-love you will discover you have. When I was sick and it was time to rest, I put aside all that I have to do, and rest. When my body fails me, I can’t work as efficiently as before, and I’m putting my well-being at risk if I deprive my body of the rest it desperately needs. When it is time to work, I could concentrate on it fully. When it is time to push myself beyond my limits and make myself get past my own blocks, some tough love is required. I need to get myself out of my comfort zone and do what really matters.
+            </p>
+
+          </div><!-- /.blog-post -->
+
+
+
+
+
+
+
+
+
+
+
+
+         <div class="blog-post">
+            <h2 class="blog-post-title">Moments of Synchronicity</h2>
+            <p class="blog-post-meta">Feb 4, 2015 by <a href="About.html">yc</a></p>
+
+            <blockquote><p> Synchronicity is the occurrence of two or more events that appear to be meaningfully related but not casually related. Synchronicity holds that such events are "meaningful coincidences". The concept of synchronicity was first defined by Carl Jung, a Swiss psychiatrist, in the 1920s. (Source: Wikipedia)
+            </p></blockquote>
+            
+            <ul>Moments of Synchronicity
+            <li> I called up an old friend recently, and asked him which stage of National Service he is currently serving. I guessed randomly he’s a signal operator, and it turns out he is and he is currently in the same platoon & course I was from earlier in my trainee days. </li>
+            <li> Made 2 friends @ a hike recently who had a similar issue of approaching people of the opposite gender. One of them agreed with me to move out of our comfort zones at another event! </li>
+            <li> Made a new friend recently who happens to be skilled in IT and that is his profession. He gave me his contact and offered to help if I face upcoming challenges in the near future regarding creating my website and project. </li>
+
+            <li> Met a few people today @ a reading & sharing MeetUp event who have similar interests. There’s this guy from Poly who does not enjoy his course of specialisation, Engineering, and is looking to pursue something else that he desires. I found out that just like me, he is a blogger and keeps a journal (except that his blog has hit 1000 views) </li>
+            <li> The message: Be real & just be yourself. I have always wanted to be more authentic and show my real face to the world wherever I am at, whoever I am with, so that I could stop contradicting and denying and hiding part of myself from the world in order to fit in, or simply in order to not be made wrong by the world. Today, my new friend was the perfect example of what it truly is like to be able to be oneself in the presence of others. That is the kind of expansive, open and relaxed energy that I want to have. </li>
+            <li> Just last week, I have decided, as part of my project, to write 3 articles each week over the course of a 4-week period, so that I could become a consistent writer doing what I love. Just recently, Marcella Chamorro, a writer and blogger I have been following, started her own #100 days of Micro Stories project where she would write something each day for 100 days. How fitting and likely that her writings are going to be my source of inspiration for the upcoming weeks! </li>
+
+            <li> I just came across a Facebook page that started an initiative “Learn, Try or Do Something New Every Day”. That is truly one of my desires as well, and part of my project goal is to try out at least 12 new things that I haven’t done yet, as an effort to experience life anew and step out of my comfort zone, as well as seek inspiration for my writing. </li>
+            
+            </ul>
+
+          </div><!-- /.blog-post -->
+
+
+
+
+
+
+
+
+
+
+          <nav>
+            <ul class="pager">
+              <li><a href="#">Previous</a></li>
+              <li><a href="#">Next</a></li>
+            </ul>
+          </nav>
+
+        </div><!-- /.blog-main -->
+
+<div class="col-sm-4 blog-sidebar">
+          <div class="sidebar-module sidebar-module-inset">
+            <h4>About</h4>
+            <p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
+          </div>
+          <div class="sidebar-module">
+            <h4>Archives</h4>
+            <ol class="list-unstyled">
+              <li><a href="Feb15.html">Feb 15</a></li>
+              <li><a href="Jan15.html">Jan 15</a></li>
+              <li><a href="Dec14.html">Dec 14</a></li>
+            </ol>
+          </div>
+          <div class="sidebar-module">
+            <h4>Elsewhere</h4>
+            <ol class="list-unstyled">
+              <li><a href="#">GitHub</a></li>
+              <li><a href="#">Twitter</a></li>
+              <li><a href="#">Facebook</a></li>
+            </ol>
+          </div>
+        </div><!-- /.blog-sidebar -->
+
+      </div><!-- /.row -->
+
+    </div><!-- /.container -->
+
+    <footer class="blog-footer">
+      <p>Blog template built for <a href="http://getbootstrap.com">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+      <p>
+        <a href="#">Back to top</a>
+      </p>
+    </footer>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    <script src="../../assets/js/docs.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
